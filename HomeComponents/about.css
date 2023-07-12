@@ -1,0 +1,13 @@
+*{
+    font-family: Open Sans;
+}
+#head{
+    padding-left: 30px;
+}
+#aboutpara{
+    width:950px;
+    padding-left:130px;
+    margin-left:12%;
+    font-size: large;
+    text-align: center;
+}
