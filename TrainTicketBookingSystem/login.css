@@ -1,0 +1,65 @@
+#logDiv1{
+  width:50%;
+  height:100%;
+  float:left;
+  padding-top: 40px;
+}
+#logDiv2{
+  width:40%;
+  height:100%;
+  float:right;
+  padding-top: 105px;
+}
+  .container {
+    max-width: 300px;
+    /* margin: 0 auto; */
+    display:flex;
+    padding: 40px;
+    border-radius: 6px;
+    padding-bottom: 70px;
+    background-color: white;
+    float: left;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.882); */
+  }
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    
+  }
+  #lb1 {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color:rgb(71, 69, 65);
+    color: white;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  #lb2{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color:rgb(160, 158, 153);
+    color: white;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  #lb1:hover {
+    background-color:rgb(248, 164, 7) ;
+  }
+  #lb2:hover {
+    background-color:rgb(248, 164, 7);
+  }
+  form input:hover{
+    box-shadow: 0 2px 5px black;
+  }
+  

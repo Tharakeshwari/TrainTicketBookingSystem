@@ -1,0 +1,42 @@
+.top2{
+    padding-top: 130px;
+   height:580px;
+   opacity:0.9;
+   background-color: rgb(255, 205, 111);
+   
+  }
+  .container {
+    max-width: 300px;
+    margin: 0 auto;
+    display:flex;
+    padding: 40px;
+    border-radius: 6px;
+    padding-bottom: 70px;
+    background-color: white;
+    /* box-shadow: 0 0 10px rgba(24, 24, 23, 0.882); */
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  #ab1{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color:rgb(255, 205, 111);
+    color: white;
+    cursor: pointer;
+  }
+  
+  #ab1:hover {
+    background-color: rgb(248, 164, 7);
+  }

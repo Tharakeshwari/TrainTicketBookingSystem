@@ -1,0 +1,44 @@
+.tg1{
+    padding-left: 3.5%;
+    padding-right: 3.5%;
+    padding-top: 2%;
+}
+.tg2{
+    display:inline-block;
+    background-color:#D4D4D4;
+    width:100%;
+    height:20vh;
+    padding-bottom: 3%;
+    padding-top: 3%;
+
+}
+.tg3{
+    /* background-color: blue; */
+    width:100%;
+    /* padding-right: 3%; */
+}
+.tg3t{
+    display:inline-block;
+    width:13%;
+    padding-right: 1%;
+    padding-bottom: 2%;
+}
+.tg2t{
+    padding-bottom: 3%;
+}
+.tg3 span{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: larger;
+}
+.tg3 p{
+    font-size: x-large;
+    color:rgb(132, 132, 132);
+}
+.tg2:hover{
+    box-shadow: 0 3px 15px black;
+}
+#trainbutton:hover{
+    box-shadow: 0 3px 10px black;
+}

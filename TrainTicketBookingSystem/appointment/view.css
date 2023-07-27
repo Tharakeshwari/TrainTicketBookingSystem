@@ -1,0 +1,17 @@
+tr:nth-child(even) {
+    background-color: rgba(150, 212, 212, 0.4);
+  }
+th{
+    background-color: rgb(207, 202, 202);
+}
+tr:hover {
+    background-color: #fefeb6;
+}
+table{
+    padding-top:3%;
+}
+h1{
+    padding-top:3%;
+    color:rgba(79, 78, 78, 0.801);
+
+}
